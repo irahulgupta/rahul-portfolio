@@ -1,4 +1,4 @@
-# Pranjal Goyal
+# Rahul Gupta
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Demo-17a2b8?style=flat&logo=googlechrome&logoColor=white)](https://pranjalg13.github.io/portfolio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-goyal-dev) [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/pranjalg13) [![Medium](https://img.shields.io/badge/Medium-Read-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@pranjalgoyal13)
 
