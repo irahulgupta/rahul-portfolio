@@ -45,6 +45,6 @@ document.getElementById('contact-form').addEventListener('submit', function(e) {
   const subject = encodeURIComponent("Something you want to talk about?!");
   const body = encodeURIComponent(`Name: ${name}\n\nMessage:\n${message}`);
   
-  window.location.href = `mailto:pranjalgoyal13@gmail.com?subject=${subject}&body=${body}`;
+  window.location.href = `mailto:rahul.workconnect@gmail.com?subject=${subject}&body=${body}`;
 });
 
